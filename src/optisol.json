@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Thiruvanmiyur",
+        "admin": "Chennai",
+        "country": "India",
+        "iso2": "IN",
+        "capital": "",
+        "address":"Baid Hi Tech Park, 4thFloor ,ECR, Thiruvanmiyur,Chennai - 600041",
+        "lat": "12.9611",
+        "lng": "80.2592"
+    },
+    {
+        "city": "Chinna Chokikulam",
+        "admin": "Madurai",
+        "country": "India",
+        "iso2": "IN",
+        "capital": "",
+        "address":"#20A, V.P.Rathinasamy Nadar Road, B.B. Kulam,Madurai - 625014",
+        "lat": "9.9350",
+        "lng": "78.1334"
+    },
+    {
+        "city": "Peelamedu",
+        "admin": "Coimbatore",
+        "country": "India",
+        "iso2": "IN",
+        "capital": "",
+        "address":"PSG-STEP, PSG Tech Campus, Avinashi Rd, Peelamedu, Tamil Nadu 641004",
+        "lat": "11.0346",
+        "lng": "77.0156"
+    },
+    {
+        "city": "EC1V 2NX",
+        "admin": "London",
+        "country": "England",
+        "iso2": "EN",
+        "capital": "",
+        "address":"Kemp House 160 City Road London EC1V 2NX,UNITED KINGDOM",
+        "lat": "51.5273",
+        "lng": "-0.0897337"
+    },
+    {
+        "city": "Innovation Centre Sunshine Coast",
+        "admin": "Sippy Downs",
+        "country": "Australia",
+        "iso2": "AUS",
+        "capital": "",
+        "address":"Innovation Centre, Sunshine Coast University, 90 Sippy Downs Drive, Sippy Downs, 4556 QLD",
+        "lat": "-26.7162269",
+        "lng": "153.0589854"
+    },
+    {
+        "city": "Sheikh Zayed Road",
+        "admin": "Dubai",
+        "country": "Dubai",
+        "iso2": "AUS",
+        "capital": "",
+        "address":"P.O. BOX 16726,Sheikh Zayed Road,Dubai, UAE",
+        "lat": "25.276987",
+        "lng": "55.296249"
+    }
+]
