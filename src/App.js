@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Component} from 'react';
-import Markerpop from './Populationmarker';
+import Markerpop from './PopulationMarker';
 
 class App extends Component {
 
@@ -14,4 +13,5 @@ class App extends Component {
   }
 }
 export default App;
+
 
